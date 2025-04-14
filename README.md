@@ -57,7 +57,7 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
   "mcpServers": {
     "google-search": {
       "command": "npx",
-      "args": ["-y", "@demondehellis/mcp-google-search"],
+      "args": ["-y", "@mcp-for-dev/mcp-google-search"],
       "env": {
         "GOOGLE_API_KEY": "your-api-key-here",
         "GOOGLE_SEARCH_ENGINE_ID": "your-search-engine-id-here"

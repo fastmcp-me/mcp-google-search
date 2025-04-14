@@ -1,5 +1,5 @@
 {
-  "name": "@demondehellis/mcp-google-search",
+  "name": "@mcp-for-dev/mcp-google-search",
   "version": "0.1.0",
   "description": "A Model Context Protocol server for Google Search API",
   "type": "module",
