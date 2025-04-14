@@ -1,6 +1,6 @@
 {
   "name": "@mcp-for-dev/mcp-google-search",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Model Context Protocol server for Google Search API",
   "type": "module",
   "bin": {
@@ -21,6 +21,13 @@
     "axios": "^1.7.9",
     "cheerio": "^1.0.0"
   },
+  "keywords": [
+    "google search",
+    "automation",
+    "AI",
+    "Claude MCP",
+    "mcp"
+  ],
   "devDependencies": {
     "@types/node": "^20.11.24",
     "typescript": "^5.3.3"
